@@ -71,21 +71,4 @@ header h2 {
   z-index: 100; 
 }
 
-img {
-  border: 0 none;
-}
 
-.product-grid-image img {
-  display: block;
-  margin: 0 auto;
-  -webkit-transition: opacity .3s ease-out;
-  -moz-transition: opacity .3s ease-out;
-  -ms-transition: opacity .3s ease-out;
-  -o-transition: opacity .3s ease-out;
-  transition: opacity .3s ease-out;
-  -webkit-backface-visibility: hidden;
-  -moz-backface-visibility: hidden;
-  -ms-backface-visibility: hidden;
-  -o-backface-visibility: hidden;
-  backface-visibility: hidden;
-}
